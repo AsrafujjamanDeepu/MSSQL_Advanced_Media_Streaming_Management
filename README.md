@@ -1,6 +1,6 @@
 # MSSQL Advanced Media Streaming Management
 This project implements an Advanced Media Streaming Management System using Microsoft SQL Server (MSSQL), featuring a fully normalized relational design, comprehensive business rule enforcement, and robust transaction management for streaming service operations.
-I've made the DDL part in a unique way with crude opeartion so that you can execute the script again and again continually without having any errors.
+I've made the DDL part in a unique way with CRUD opeartion so that you can execute the script again and again continually without having any errors.
 
 <img src="assets/screenshots/Screenshot 2026-06-15 080537.png" width="700" alt="Project Info"/>
 
